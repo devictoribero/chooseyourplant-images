@@ -1,3 +1,8 @@
 {
-    "schedule": "daily"
+    "schedule": "weekly",
+    "ignoredFiles": [
+        "*-original.jpeg",
+        "*-original.jpg",
+        "*-original.png"
+    ]
 }
